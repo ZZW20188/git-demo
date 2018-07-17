@@ -5,5 +5,6 @@ public class Happy {
 		System.out.println("happy");
 		System.out.println("birthday");
 		System.out.println("new year");
+		System.out.println("hot-fix");
 	}
 }
